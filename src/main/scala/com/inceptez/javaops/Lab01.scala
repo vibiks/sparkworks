@@ -14,7 +14,7 @@ object Lab01 {
     
     rdd.foreach(println)
     
-    println("Hello Scala...")
+    println("Welcome to scala...")
     
   }
   
